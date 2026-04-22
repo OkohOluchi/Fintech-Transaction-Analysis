@@ -77,7 +77,10 @@ Visualizations were created using Python (Matplotlib) to clearly communicate ins
 - Bar charts for regional and channel performance  
 - Transaction trends over time  
 - Fraud distribution across regions  
-- Device usage comparisons  
+- Device usage comparisons
+
+  <img width="963" height="675" alt="Fintech python" src="https://github.com/user-attachments/assets/e73e9fa1-ffab-4b24-9190-7481c6bbebe9" />
+
 
 ---
 
